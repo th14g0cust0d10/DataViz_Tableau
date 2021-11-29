@@ -6,7 +6,7 @@
 
 ---
 
-![](![](Tableau1.png))
+![](Tableau1.png)
 
 Necessidade de criação de Dashboard e Storytelling para suporte a gestão, estratégia e tomada de decisão. Aqui exibiremos exemplo desenvovido no Tableau, com a finlidade de demosntração de competência o quail não foi publicado..
 
@@ -14,6 +14,6 @@ Necessidade de criação de Dashboard e Storytelling para suporte a gestão, est
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://th14g0cust0d10.github.io/Projeto_DQR_Python/
+* https://th14g0cust0d10.github.io/DataViz_Tableau/
 
 ---
