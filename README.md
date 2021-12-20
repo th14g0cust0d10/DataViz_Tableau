@@ -1,10 +1,9 @@
 # **Data Visualization - Dashboard e Storytelling com Tableau**
-
 *Portfólio Thiago Gonçalves Custódio*
 
-## **Definição do Problema**
-
 ---
+
+## **Definição do Problema**
 
 ![](Tableau1.png)
 
