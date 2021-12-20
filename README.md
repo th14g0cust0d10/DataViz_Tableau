@@ -1,11 +1,10 @@
 # **Data Visualization - Dashboard e Storytelling com Tableau**
 *Portfólio Thiago Gonçalves Custódio*
+![](Tableau1.png)
 
 ---
-
 ## **Definição do Problema**
 
-![](Tableau1.png)
 
 Necessidade de criação de Dashboard e Storytelling para suporte a gestão, estratégia e tomada de decisão. Aqui exibiremos exemplo desenvovido no Tableau, com a finlidade de demosntração de competência o quail não foi publicado..
 
